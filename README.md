@@ -21,13 +21,13 @@ The Pomodoro technique is a time management method that involves breaking work i
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 ```
-git clone https://github.com/beltranj/pomodoro-flutter.git
+git clone https://github.com/beltranj/flutter-pomodoro.git
 ```
 3. **Install Flutter**: Make sure you have Flutter installed on your machine. You can download it from the official [Flutter website](https://flutter.dev/docs/get-started/install).
 
 4. **Install Dependencies**: Navigate to the project directory and install the required dependencies using the following command:
 ```
-cd pomodoro-flutter
+cd flutter-pomodoro
 flutter pub get
 ```
 5. **Run/debug the app using VSCode**
