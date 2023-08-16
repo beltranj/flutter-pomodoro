@@ -1,11 +1,11 @@
 # Cross-Platform Pomodoro App 🍅⏱️
-
-![App Demo]()
+<p align="center">
+  <img src="assets/test.gif" alt="App Demo" width="100" height="217">
+</p>
 
 ## Overview
 
 Pomodoro app is a productivity tool designed to help you manage your work intervals efficiently, is built using Flutter, which enables it to run on multiple platforms, including Android, iOS, Windows, macOS and web.
-
 The Pomodoro technique is a time management method that involves breaking work into focused intervals (typically 25 minutes) followed by short breaks. This app provides a user-friendly interface for tracking your work and break intervals.
 
 ## Features
